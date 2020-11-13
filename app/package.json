@@ -10,7 +10,7 @@
   },
   "stack": {
     "stackname": "MTA",
-    "region": "US-EAST-1"
+    "region": "us-east-1"
   },
   "email": "ogzmlb01@gmail.com",
   "scripts": {
