@@ -10,7 +10,7 @@
   },
   "stack": {
     "stackname": "MTA",
-    "region": "US EAST (N. Virginia)"
+    "region": "US-EAST-1"
   },
   "email": "ogzmlb01@gmail.com",
   "scripts": {
@@ -61,7 +61,7 @@
     "aws-amplify": "^2.2.0",
     "aws-amplify-react": "^3.1.1",
     "aws-cdk": "^1.70.0",
-    "aws-sdk": "^2.670.0",
+    "aws-sdk": "^2.791.0",
     "classnames": "^2.2.6",
     "clsx": "^1.1.0",
     "css-loader": "^3.5.3",
