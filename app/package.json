@@ -39,7 +39,7 @@
     "jest": "26.6.0",
     "ts-jest": "^26.1.0",
     "ts-node": "^8.10.1",
-    "typescript": "~3.7.2"
+    "typescript": "^3.7.5"
   },
   "dependencies": {
     "@aws-cdk/assert": "1.42.0",
@@ -61,7 +61,7 @@
     "aws-amplify": "^2.2.0",
     "aws-amplify-react": "^3.1.1",
     "aws-cdk": "^1.70.0",
-    "aws-sdk": "^2.670.0",
+    "aws-sdk": "^2.791.0",
     "classnames": "^2.2.6",
     "clsx": "^1.1.0",
     "css-loader": "^3.5.3",
